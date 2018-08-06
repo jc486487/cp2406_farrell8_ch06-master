@@ -10,6 +10,7 @@ public class CountByThrees
             {
                 System.out.println();
             }
+            i += 2;
         }
     }
 }
